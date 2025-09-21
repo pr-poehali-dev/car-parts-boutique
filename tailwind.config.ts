@@ -68,6 +68,14 @@ export default {
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
 			},
+			colors: {
+				'automotive-red': '#EF4444',
+				'dark-charcoal': '#1F2937',
+				'light-gray': '#F3F4F6'
+			},
+			fontFamily: {
+				'sans': ['Open Sans', 'system-ui', 'sans-serif']
+			},
 			keyframes: {
 				'accordion-down': {
 					from: {
